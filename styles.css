@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #edeef0;
+    background-color: #28439c;
     color: #303030;
     margin: 0;
     padding: 0;
@@ -60,8 +60,15 @@ h2 {
     /* Styles for Tableau graph container */
 }
 
+.favorite-team {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: #28439c;
+    padding: 20px;
+    text-align: center;
+}
+
 footer {
-    background-color: #222;
+    background-color: #28439c;
     color: #fff;
     text-align: center;
     padding: 10px;
