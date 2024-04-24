@@ -68,6 +68,22 @@ h2 {
     text-align: center;
 }
 
+.div2 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: #28439c;
+    border-style: solid;
+    padding: 20px;
+    text-align: center;
+}
+
+.div3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: #28439c;
+    border-style: double;
+    padding: 20px;
+    text-align: center;
+}
+
 footer {
     background-color: #28439c;
     color: #fff;
