@@ -63,6 +63,7 @@ h2 {
 .favorite-team {
     font-family: "Lucida Console", "Courier New", monospace;
     color: #28439c;
+    border-style: dotted;
     padding: 20px;
     text-align: center;
 }
