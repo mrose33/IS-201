@@ -61,25 +61,25 @@ h2 {
 }
 
 .favorite-team {
-    font-family: "Lucida Console", "Courier New", monospace;
-    color: #28439c;
-    border-style: dotted;
-    padding: 20px;
-    text-align: center;
-}
-
-.div2 {
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Lucida Console", "Georgia", serif;
     color: #28439c;
     border-style: solid;
     padding: 20px;
     text-align: center;
 }
 
-.div3 {
-    font-family: "Lucida Console", "Courier New", monospace;
+.div2 {
+    font-family: "Lucida Console", "Georgia", serif;
     color: #28439c;
     border-style: double;
+    padding: 20px;
+    text-align: center;
+}
+
+.div3 {
+    font-family: "Lucida Console", "Georgia", serif;
+    color: #28439c;
+    border-style: solid;
     padding: 20px;
     text-align: center;
 }
